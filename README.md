@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I like machine learning and compilers, and I especially like both of them together. In particular, I like machine learning applied to programming systems.
+🔭 I like machine learning and compilers, and I especially like both of them together.
 
-I'm currently a Ph.D. Student in Computer Science at the Institute of Computing, University of Campinas (Unicamp), Brazil.
+🌱 I'm currently a Ph.D. Student in Computer Science at the Institute of Computing, University of Campinas (Unicamp), Brazil.
 
 <!--
 **thaisacs/thaisacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
