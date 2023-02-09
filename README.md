@@ -4,6 +4,8 @@
 
 🌱 I'm currently a Ph.D. Student in Computer Science at the Institute of Computing, University of Campinas (Unicamp), Brazil.
 
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisacs&layout=compact)](https://github.com/thaisacs/github-readme-stats)
+
 <!--
 **thaisacs/thaisacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
