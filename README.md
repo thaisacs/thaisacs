@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-🔭 I like machine learning and compilers, and I especially like both of them together.
-
-🌱 I'm currently a Ph.D. Student in Computer Science at the Institute of Computing, University of Campinas (Unicamp), Brazil.
-
 [![Thais's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisacs&layout=compact&theme=dracula)](https://github.com/thaisacs/github-readme-stats)
 
 <!--
