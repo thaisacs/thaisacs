@@ -1,5 +1,4 @@
 ### Hi there 👋
-###### The Lord bless you and keep you!!! 🌱
 [![Thais's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thaisacs&layout=compact&theme=dracula)](https://github.com/thaisacs/github-readme-stats)
 
 <!--
